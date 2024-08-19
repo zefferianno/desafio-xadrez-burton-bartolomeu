@@ -4,7 +4,7 @@ Bem-vindo ao desafio de Xadrez da MateCheck! Este projeto tem como objetivo test
 
 ## Níveis do Desafio
 
-### ♟️ Nível Novato
+### 🏅 Nível Novato
 
 A equipe de testes da MateCheck recebeu uma solicitação para determinar os limites de utilização do código dentro do jogo. Para isso, a equipe de programação solicitou o envio de blocos de código contendo loops (estruturas de repetição) para avaliação de desempenho e possibilidades de aplicação.
 
